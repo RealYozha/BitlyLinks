@@ -1,3 +1,5 @@
+# @AfterYozha, 2024
+# Supported languages: en-us, ru-ru
 import os
 import argparse
 import requests
