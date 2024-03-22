@@ -33,7 +33,7 @@ os, argparse, urllib, requests, dotenv
 ```
 ## License
 This project was made for education purposes and not for commerical usage.
-The `Hedgehog License 2.0 Private` license is used.
+The `Hedgehog License 3.1 Public` license is used.
 
 
 # Русский
@@ -66,4 +66,4 @@ os, argparse, urllib, requests, dotenv
 ```
 ## Лицензия
 Этот проект был сделан в целях образования.
-Используется лицензия `Hedgehog License 2.0 Private`.
+Используется лицензия `Hedgehog License 3.1 Public`.
